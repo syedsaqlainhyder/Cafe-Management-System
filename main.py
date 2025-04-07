@@ -23,10 +23,7 @@ inventory = {
 }
 img = [
     "WhatsApp Image 2025-03-05 at 3.32.55 PM (4).jpeg",
-    "WhatsApp Image 2025-03-05 at 3.32.55 PM (2).jpeg",
-    "WhatsApp Image 2025-03-05 at 3.32.55 PM (3).jpeg",
-    "WhatsApp Image 2025-03-05 at 3.32.55 PM (1).jpeg",
-    "WhatsApp Image 2025-03-05 at 3.32.55 PM.jpeg"
+   
 ]
 
 def calculate_total(order_items):
